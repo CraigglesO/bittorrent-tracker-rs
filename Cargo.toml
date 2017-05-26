@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Craig OConnor <oconnorct1@gmail.com>"]
 
 [dependencies]
+byteorder = "1.0.0"
